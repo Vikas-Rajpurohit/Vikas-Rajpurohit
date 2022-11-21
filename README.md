@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Vikas-Rajpurohit
+- 👀 I’m interested in Machine Learning, Web dev and Game dev
+- 🌱 I’m currently learning Web development
